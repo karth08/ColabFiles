@@ -1,2 +1,2 @@
-# ColabFiles
-My Colab Files
+# Colab Files
+My Google Colab Files
